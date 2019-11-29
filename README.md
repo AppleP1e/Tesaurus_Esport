@@ -1,4 +1,4 @@
-# Thesaurus esport
+# Thesaurus - esport
 
 **IMPORTANT NOTICE**: The whole project is in czech langauge. Please respect that. If you want to know what this project was about, just consult this readme. 
 
