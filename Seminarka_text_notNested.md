@@ -9,14 +9,14 @@ Faseta Žánr je základní kategorií, která má určovat, jak se která hra h
 
 Žánr nabývá následujících hodnot: 
 
-* RTS  ***NC** Real-time strategie, Strategie v reálném čase*
-* MOBA 
-* Battle Royal ***NC** Battle Royal*
-* FPS ***NC** First person shooter, střílečka z prvního pohledu, střílečka z pohledu vlastních očí*
-* Fighting game ***NC** Mlátička, bojovka*
-* Sportovní simulace
-* Sběratelská karetní hra
-* Ostatní
+RTS,  
+MOBA, 
+Battle Royal,
+FPS, 
+Fighting game, 
+Sportovní simulace,
+Sběratelská karetní hra,
+Ostatní
 
 ### Platforma
 
@@ -24,12 +24,12 @@ Zdaleka ne všechny hry se dají hrát univerzálně na všech platformách a zd
 
 Platforma nabývá následujících hodnot: 
 
-* PC ***NC** Počítač*
-* PlayStation ***NC** PS*
-* Xbox
-* Nintendo 
-* Arkádový automat ***NC** Herní automat*
-* Mobil/tablet
+PC 
+PlayStation 
+Xbox
+Nintendo 
+Arkádový automat 
+Mobil/tablet
 
 ### Komunita
 
@@ -37,9 +37,9 @@ Faseta komunita ukazuje stav, v jakém se nachází daná hra. Zdali je hra naž
 
 Komunita nabývá následujících hodnot:
 
-* Oficiální podpora a vydávání nového obsahu
-* Oficiální podora
-* Komunitní údržba 
-* Neaktivní titul
+Oficiální podpora a vydávání nového obsahu
+Oficiální podora
+Komunitní údržba 
+Neaktivní titul
 
 
