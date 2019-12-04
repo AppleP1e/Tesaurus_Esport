@@ -42,4 +42,12 @@ Komunita nabývá následujících hodnot:
 * Komunitní údržba 
 * Neaktivní titul
 
+### Turnaj
 
+Faseta Turnaj pojednává o tom, jaké existují e-sportovní turnaje - bez nich by to nebyl e-sport. 
+
+Turnaj může mít následující hodnoty: 
+
+* Jednotitulový turnaj 
+* Vícetitulový, jednožánrový turnaj 
+* Vícetitulový, multižánrový turnaj 
