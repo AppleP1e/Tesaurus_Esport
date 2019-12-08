@@ -8,6 +8,10 @@
   * **BT** Žánr
   * **NT** 
   * **UF** Battle Royale
+* Digitální desková hra
+  * **SN** Hráč si sestavuje vlastní balíček/sadu herních kamenů ze sdílené databáze, společné pro všechny hráče daného titulu, s toutu sadou pak nastupuje do zápasů proti jiným hráčům a snaží se ho využít do maxima tak, aby splnil vítězné podmínky dané hry.  
+  * **BT** Žánr
+  * **NT** 
 * Elektronické sporty
   * **SN** Videohry, které se hrají na turnajích profesionální úrovně
   * **NT** Žánr, Platforma, Komunita
@@ -20,7 +24,7 @@
   * **SN** Hráč kouká z pohledu vlastních očí, je vybaven zbraní a jeho základním cílem je zastřelit své soupeře. Může fungovat jako 1 proti všem, nebo jako týmová hra (5 proti 5, 6 proti 6). V moderních hrách však často bývá ještě druhý, "vyšší" cíl, spočívající v zajištění nějaké výherní podmínky (eskortuj rukojmí, udrž určenou oblast, zneškodni bombu)
   * **BT** Žánr
   * **NT** 
-  * **UF** First person shooter, shooter game, střílečka, střílečka z prvního pohledu 
+  * **UF** First person shooter, shooting game, střílečka, střílečka z prvního pohledu 
 * Jednotitulový turnaj 
   * **SN** Turnaj, který se hraje jen a pouze v jedné konkrétní hře. 
   * **BT** Turnaj
@@ -34,10 +38,10 @@
   * **BT** Komunita
   * **NT** 
 * MOBA
-  * **SN** Zkratka MOBA znamená "Online aréna pro hru více hráčů". Tento žánr je odvozený ze strategií, ovšem hráč kontroluje pouze jednu postavu. Obvyklým cílem je zničit "Jádro" v srdci nepřátelské základny.
+  * **SN** Zkratka MOBA znamená "Online aréna pro hru více hráčů" (Multiplayer Online Battle Arena). Tento žánr je odvozený ze strategií, ovšem hráč kontroluje pouze jednu postavu. Obvyklým cílem je zničit "Jádro" v srdci nepřátelské základny.
   * **BT** Žánr
   * **NT** 
-* Mobil/tablet
+* Mobilní telefon/tablet
   * **SN** Zařízení, původně velice nezpůsobilá k hraní se stala preferovanou platformou mnohých...
   * **BT** Platforma
   * **NT** 
@@ -57,6 +61,10 @@
   * **SN** Hra je směrem od jejích tvůrců aktivně upravovaná, vychází nový obsah, ať už v podobě placených rozšíření, rozšíření zdarma, nebo "patchů", které do různé míry mění vybalancování hry a způsob, jakým se hraje. Vývojáři financují turnaje.
   * **BT** Komunita
   * **NT** 
+* Platforma 
+  * **SN** Popisuje, na jakých zařízeních se daná hra hraje na oficiálních turnajích
+  * **NT** PC, PlayStation, Xbox, Nintendo, Arkádový automat, Mobil/tablet
+  * **BT** Elektronické sporty
 * PlayStation
   * **SN** Velice populární série herních konzolí od Japonské firmy Sony. 
   * **BT** Platforma
@@ -67,28 +75,19 @@
   * **BT** Platforma
   * **NT** 
   * **UF** Počítač
-* PlayStation
-  * **SN** Velice populární série herních konzolí od Japonské firmy Sony. 
-  * **BT** Platforma
-  * **NT** 
-  * **UF** PS
 * RTS
   * **SN** Hráč je vrchním velitelem své armády a zpravidla má kompletní kontrolu nad získáváním surovin, výcvikem své armády a jejím pohybem. Cílem hry je pomocí sérií útoků, manévrováním a dobrou kontrolou své ekonomiky zničit všechny základny soupeře.  
   * **BT** Žánr
   * **NT** 
   * **UF** Real-time strategie, Strategie, strategie v reálném čase
-* Sběratelská karetní hra
-  * **SN** Hráč si sestavuje vlastní balíček z databáze karet, společných pro všechny hráče, s tímto balíčkem pak nastupuje do zápasů proti jiným hráčům a snaží se ho využít do maxima tak, aby splnil vítězné podmínky dané karetní hry.  
-  * **BT** Žánr
-  * **NT** 
 * Sportovní simulace
-  * **SN** Velice diverzifikovaný herní žánr, který má za cíl co nejpřesněji simolovat různé reálné sporty. Od automobilového závodění, přes basketbal až po americký fotbal. Pravilda jsou stejná jako u těchto her. 
+  * **SN** Velice diverzifikovaný herní žánr, který má za cíl co nejpřesněji simulovat různé reálné sporty. Od automobilového závodění, přes basketbal až po americký fotbal. Pravilda jsou stejná jako u těchto her, s tím rozdílem, že hráč má kontrolu nad celým "svým" týmem na hřišti. Díky tomu jsou tyto hry poměrně strategicky bohaté.
   * **BT** Žánr
   * **NT** 
 * Turnaj 
   * **SN** Časově ohraničená, krátkodobá událost, kdy se nejlepší hráči daného titulu (nebo jen "hráči", v případě konkrétních turnajů, např. EVO) utkávají proti sobě, hrajíc o slávu, čest, dobrý pocit z vítězství, či finanční odměnu (případně libovolnou kombinaci předchozího uvedeného)
   * **BT** 
-  * **NT** Jednotitulový turnaj, Vícetitulový, jednožánrový turnaj, Vícetitulový, multižánrový turnaj
+  * **NT** Jednotitulový turnaj, Vícetitulový, jednožánrový turnaj, Vícetitulový, vícežánrový turnaj
 * Vícetitulový, jednožánrový turnaj 
   * **SN** Turnaj, který se hraje mnoho titulů, všechny ale spadají do jednoho žánru. Typické pro Fighting games turnaje. 
   * **BT** Turnaj
@@ -103,5 +102,5 @@
   * **NT** 
 * Žánr
   * **SN** Popisuje to, jaké jsou základní mechaniky daných her. 
-  * **NT** RTS, MOBA, Battle Royal, FPS, Fighting game, Sportovní simulace, Sběratelská karetní hra
+  * **NT** RTS, MOBA, Battle Royal, FPS, Fighting game, Sportovní simulace, Digitální desková hra
   * **BT** Elektronické sporty

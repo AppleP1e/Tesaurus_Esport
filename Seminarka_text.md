@@ -11,11 +11,11 @@ Faseta Žánr je základní kategorií, která má určovat, jak se která hra h
 
 * RTS  ***NC** Real-time strategie, Strategie v reálném čase*
 * MOBA 
-* Battle Royal ***NC** Battle Royal*
+* Battle Royal ***NC** Battle Royale
 * FPS ***NC** First person shooter, střílečka z prvního pohledu, střílečka z pohledu vlastních očí*
 * Fighting game ***NC** Mlátička, bojovka*
 * Sportovní simulace
-* Sběratelská karetní hra
+* Digitální desková hra
 * Ostatní
 
 ### Platforma

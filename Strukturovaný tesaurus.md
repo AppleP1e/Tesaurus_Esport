@@ -3,7 +3,7 @@
   * **NT** Žánr, Platforma, Komunita
 * Žánr
   * **SN** Popisuje to, jaké jsou základní mechaniky daných her. 
-  * **NT** RTS, MOBA, Battle Royal, FPS, Fighting game, Sportovní simulace, Sběratelská karetní hra
+  * **NT** RTS, MOBA, Battle Royal, FPS, Fighting game, Sportovní simulace, Digitální desková hra
   * **BT** Elektronické sporty
 * Platforma 
   * **SN** Popisuje, na jakých zařízeních se daná hra hraje na oficiálních turnajích
@@ -41,8 +41,8 @@
   * **SN** Velice diverzifikovaný herní žánr, který má za cíl co nejpřesněji simolovat různé reálné sporty. Od automobilového závodění, přes basketbal až po americký fotbal. Pravilda jsou stejná jako u těchto her. 
   * **BT** Žánr
   * **NT** 
-* Sběratelská karetní hra
-  * **SN** Hráč si sestavuje vlastní balíček z databáze karet, společných pro všechny hráče, s tímto balíčkem pak nastupuje do zápasů proti jiným hráčům a snaží se ho využít do maxima tak, aby splnil vítězné podmínky dané karetní hry.  
+* Digitální desková hra
+  * **SN** Hráč si sestavuje vlastní balíček/sadu herních kamenů ze sdílené databáze, společné pro všechny hráče daného titulu, s toutu sadou pak nastupuje do zápasů proti jiným hráčům a snaží se ho využít do maxima tak, aby splnil vítězné podmínky dané hry.  
   * **BT** Žánr
   * **NT** 
 * PC

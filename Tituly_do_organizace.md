@@ -57,7 +57,7 @@
 * NHL
 * TrackMania
 
-## Sběratelské karetní hry
+## Digitální deskové hry
 
 * Magic: The gathering Arena
 * Hearthstone
