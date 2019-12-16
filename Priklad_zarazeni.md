@@ -6,6 +6,7 @@ Rainbow Six Siege je taktická střílečka z pohledu první osoby, dostupná na
 
 *Nyní využijeme tyto informace k tomu, abychom hru zařadili do naší taxonomie.*
 
+#### Zařazení do klasifikace
 Žánr - FPS
 Platforma - PC (Siege se kompetetivně na konzolích nehraje, i když je na nich dostupný)
 Komunita - Oficiální podpora a vydávání nového obsahu 
