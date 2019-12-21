@@ -1,3 +1,0 @@
-* ESLGaming [online]. Katowice, Polsko: ESL, 2019 [cit. 2019-11-15]. Dostupné z: https://www.eslgaming.com/ (turnaje, týmy)
-* Czech Arcade [online]. Praha: Medium, 2019 [cit. 2019-11-15]. Dostupné z: https://czecharcade.com/ (Komunita, Fighting games)
-* Liquidpedia: The esports wiki [online]. Team Liquid, 2019 [cit. 2019-11-15]. Dostupné z:https://liquipedia.net/ (Žánr: Real time strategie, MOBA, Fighting games, Sportovní simulace, Karetní hry, Týmy, divize, turnaje, novinky)
