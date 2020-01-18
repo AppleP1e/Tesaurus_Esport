@@ -1,8 +1,3 @@
----
-layout: default
-title: Fasetová klasifikace
----
-
 # Monohierarchická, fasetová klasifikace
 
 ## Faseta Žánr

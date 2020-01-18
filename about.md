@@ -1,8 +1,3 @@
----
-layout: default
-title: Úvod
----
-
 # Tesaurus esportových titulů
 ## Úvod
 

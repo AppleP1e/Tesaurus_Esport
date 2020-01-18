@@ -1,8 +1,3 @@
----
-layout: default
-title: Tesaurus
----
-
 # Příklady zažazení do taxonomie
 
 ### Pojem: Rainbow Six Siege
